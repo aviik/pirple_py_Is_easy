@@ -16,7 +16,7 @@ The format I used was:<br/>
   <li>Length: 7.42</li>
 </ul>
 <br>
-<h4><a href="https://github.com/aviik/pirple_py_Is_easy/blob/master/homework2.py">02.  Python Homework #2 ( Variables)</a></h4>
+<h4><a href="https://github.com/aviik/pirple_py_Is_easy/blob/master/homework2.py">02.  Python Homework #2 ( Functions)</a></h4>
 <p>Using functions to print attributes of a song.</p>
 The format I used was:<br/>
 <ul>

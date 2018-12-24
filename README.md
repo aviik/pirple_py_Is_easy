@@ -30,3 +30,11 @@ The format I used was:<br/>
   <li>Length: 7.42</li>
   <li>CD available: True #this is a boolean variable</li>
 </ul>
+<br>
+<h4><a href="https://github.com/aviik/pirple_py_Is_easy/blob/master/homework3.py">03.  Python Homework #2 ( if-conditions)</a></h4>
+<p>Using if-conditions to test the equality between two of three arguements of a function.</p>
+<ol>
+  <li>User asked to enter three numbers</li>
+  <li>Outputs True only if two numbers are equal else outputs False</li>
+  <li>Throws an error when input is a string</li>
+</ol>

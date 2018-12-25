@@ -38,3 +38,19 @@ The format I used was:<br/>
   <li>Outputs True only if two numbers are equal else outputs False</li>
   <li>Throws an error when input is a string</li>
 </ol>
+<br>
+<h4><a href="https://github.com/aviik/pirple_py_Is_easy/blob/master/homework4.py">04.  Python Homework #4 Lists</a></h4>
+<p>Populating Lists</p>
+<ol>
+  <li>myUniqueList contains new appends</li>
+  <li>myLeftovers contains duplicate items not added to myUniqueList</li>
+</ol>
+<br>
+<h4><a href="https://github.com/aviik/pirple_py_Is_easy/blob/master/homework5.py">05.  Python Homework #5 Basic Loops</a></h4>
+<p>Program to print out 1 to 100</p>
+<ol>
+  <li>For multiples of 3 printed "Fizz"</li>
+  <li>For multiples of 5 printed "Buzz"</li>
+  <li>For multiples of both 3 and 5 printed "FizzBuzz"</li>
+  <li>For a number that was prime printed "Prime"</li>
+</ol>
